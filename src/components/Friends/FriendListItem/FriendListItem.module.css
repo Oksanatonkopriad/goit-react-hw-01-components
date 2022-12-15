@@ -1,0 +1,38 @@
+.item {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 12px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #e4e4e6;
+}
+
+.status {
+    display: block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.false {
+    background-color: red;
+}
+
+.true {
+    background-color: green;
+}
+
+.avatar {
+   border-radius: 4px;
+   margin: 0;
+   margin-right: 16px;
+}
+
+.name {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.22;     
+}
